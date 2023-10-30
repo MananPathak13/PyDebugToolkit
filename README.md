@@ -9,6 +9,24 @@ Welcome to PyDebugToolkit, an intuitive toolkit designed to monitor software pro
 - **Automatic Reporting**: Generates detailed reports when issues are identified, saving them to a text file.
 - **Solution Recommendations**: Provides recommendations for identified issues to guide users toward potential solutions.
 
+## Project structure
+- PyDebugToolkit/
+│
+├── pydebugtoolkit/
+│   ├── __init__.py
+│   ├── monitor.py
+│   ├── reporter.py
+│   ├── analyzer.py
+│   └── utils.py
+│
+├── examples/
+│   ├── example_process.py
+│   └── run_monitoring.py
+│
+├── README.md
+└── requirements.txt
+
+
 ## Installation
 
 To use PyDebugToolkit, you need to have Python installed on your system. If you haven't installed Python yet, download and install it from the [official website](https://www.python.org/downloads/). 
