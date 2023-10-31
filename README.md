@@ -52,6 +52,6 @@ Save this script in the examples directory and run it while the process you want
 Contributing
 Contributions to PyDebugToolkit are welcome! If you have suggestions for improvements or find a bug, please open an issue or create a pull request.
 
-##License
+**## License**
 PyDebugToolkit is released under the MIT License. See the LICENSE file in the repository for details.
 This project provides a basic structure for a software debugging tool. You can expand upon this by ad
